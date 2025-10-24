@@ -1,2 +1,2 @@
 # Horizon
- Rigidbody physics engine
+ 3d Rigidbody physics engine
